@@ -2,6 +2,9 @@
 
 Designed to assist people with visual impairment identify distant street signs or objects. Made originally for TOM Makeathon at Northwestern University by Daniel Bednarczyk, Darcy Green (Need Knower), Joe Cummings, Julie Davies, Megan Reid, Wong Song Wei.
 
+<img src="https://github.com/lilmegan32/Street-Sight/blob/master/WearingGoPro.jpg" height=400></img>
+<img src="https://github.com/lilmegan32/Street-Sight/blob/master/ViewingGoPro.jpg" height=400></img>
+
 This GoPro Hero 5 Session set-up utilizes cameras for input, zooming into images and outputs them on the user’s mobile phone screen. It is developed for people with visual-impairment, making it easier for them to identify street signs, license plates and addresses which are far away. The GoPro Hero 5 Session takes pictures at pre-determined intervals (by user). Pictures taken can be zoomed in on the user’s mobile phone screen, so objects in these pictures appear larger and it is easier for users to identify what they are. 
 
 The software is capable of interfacing with future GoPro cameras (which hopefully comes with even sharper images).
