@@ -1,6 +1,8 @@
 # Street-Sight
 
-Designed to assist people with a visual impairment discreetly identify distant street signs or objects. Made originally for TOM Makeathon at Northwestern University by Daniel Bednarczyk, Darcy Green (Need Knower), Joe Cummings, Julie Davies, Megan Reid, Wong Song Wei.
+Allows people with a visual impairment discreetly zoom in and identify distant street signs or objects. 
+
+Made originally for TOM Makeathon at Northwestern University by Daniel Bednarczyk, Darcy Green (Need Knower), Joe Cummings, Julie Davies, Megan Reid, Wong Song Wei.
 
 <img src="https://github.com/lilmegan32/Street-Sight/blob/master/WearingGoPro.jpg" height=400></img>
 <img src="https://github.com/lilmegan32/Street-Sight/blob/master/ViewingGoPro.jpg" height=400></img>
