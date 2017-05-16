@@ -11,7 +11,7 @@ This GoPro Hero 5 Session set-up discreetly takes a new photo every two seconds 
 
 Because the GoPro camera is capabable of taking 4K resolution photos the zooming ability is fantastic. The photos are also automatically deleted in order to save space on the camera's SD card.
 
-The software is capable of interfacing with future GoPro cameras, which will hopefully come with even sharper images.
+This software is capable of interfacing with future GoPro cameras, which will hopefully come with even sharper images.
 
 Files:
 * Gopro.js
