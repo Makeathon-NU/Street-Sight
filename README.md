@@ -1,6 +1,6 @@
 # Street-Sight
 
-Allows people with a visual impairment to discreetly zoom in and identify distant street signs or objects. 
+Allows users with a visual impairment to discreetly zoom in and identify distant street signs or objects. 
 
 Made originally for TOM Makeathon at Northwestern University by Daniel Bednarczyk, Darcy Green (Need Knower), Joe Cummings, Julie Davies, Megan Reid, Wong Song Wei.
 
