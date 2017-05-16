@@ -1,13 +1,13 @@
 # Street-Sight
 
-Designed to assist people with visual impairment identify distant street signs or objects. Made originally for TOM Makeathon at Northwestern University by Daniel Bednarczyk, Darcy Green (Need Knower), Joe Cummings, Julie Davies, Megan Reid, Wong Song Wei.
+Designed to assist people with a visual impairment discreetly identify distant street signs or objects. Made originally for TOM Makeathon at Northwestern University by Daniel Bednarczyk, Darcy Green (Need Knower), Joe Cummings, Julie Davies, Megan Reid, Wong Song Wei.
 
 <img src="https://github.com/lilmegan32/Street-Sight/blob/master/WearingGoPro.jpg" height=400></img>
 <img src="https://github.com/lilmegan32/Street-Sight/blob/master/ViewingGoPro.jpg" height=400></img>
 
-This GoPro Hero 5 Session set-up utilizes cameras for input, zooming into images and outputs them on the user’s mobile phone screen. It is developed for people with visual-impairment, making it easier for them to identify street signs, license plates and addresses which are far away. The GoPro Hero 5 Session takes pictures at pre-determined intervals (by user). Pictures taken can be zoomed in on the user’s mobile phone screen, so objects in these pictures appear larger and it is easier for users to identify what they are. 
+This GoPro Hero 5 Session set-up discreetly takes a new photo every two seconds and then streams it to the user's phone. This allows the user to zoom in on images using their phone in order to identify street signs, license plates, and addresses which are far away. Because the GoPro camera is capabable of taking 4K resolution photos the zooming ability is fantastic. The photos are also automatically deleted from the camera so that the user does not need to worry about their camera's SD card getting full.
 
-The software is capable of interfacing with future GoPro cameras (which hopefully comes with even sharper images).
+The software is capable of interfacing with future GoPro cameras, which will hopefully come with even sharper images.
 
 Files:
 * Gopro.js
