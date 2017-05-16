@@ -9,7 +9,7 @@ Made originally for TOM Makeathon at Northwestern University by Daniel Bednarczy
 
 This GoPro Hero 5 Session set-up discreetly takes a new photo every two seconds and then streams it to the user's phone. This allows the user to zoom in on images using their phone in order to identify distant street signs, license plates, and addresses. 
 
-Because the GoPro camera is capabable of taking 4K resolution photos the zooming ability is fantastic. The photos are also automatically deleted in order to save space on the camera's SD card.
+Because the GoPro camera takes 4K resolution photos - the zooming ability is fantastic. The photos are also automatically deleted in order to save space on the camera's SD card.
 
 This software is capable of interfacing with future GoPro cameras, which will hopefully come with even sharper images.
 
