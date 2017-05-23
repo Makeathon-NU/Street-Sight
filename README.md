@@ -4,8 +4,8 @@ Allows users with a visual impairment to discreetly zoom in and identify distant
 
 Made originally for TOM Makeathon at Northwestern University by Daniel Bednarczyk, Darcy Green (Need Knower), Joe Cummings, Julie Davies, Megan Reid, Wong Song Wei.
 
-<img src="https://github.com/lilmegan32/Street-Sight/blob/master/WearingGoPro.jpg" height=400></img>
-<img src="https://github.com/lilmegan32/Street-Sight/blob/master/ViewingGoPro.jpg" height=400></img>
+<img src="https://github.com/Makeathon-NU/Street-Sight/blob/master/WearingGoPro.jpg" height=400></img>
+<img src="https://github.com/Makeathon-NU/Street-Sight/blob/master/ViewingGoPro.jpg" height=400></img>
 
 This GoPro Hero 5 Session set-up discreetly takes a new photo every two seconds and then streams it to the user's phone. This allows the user to zoom in on images using their phone in order to identify distant street signs, license plates, and addresses. 
 
