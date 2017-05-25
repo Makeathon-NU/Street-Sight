@@ -13,6 +13,8 @@ Because the GoPro camera takes 4K resolution photos - the zooming ability is fan
 
 This software is capable of interfacing with future GoPro cameras, which will hopefully come with even sharper images.
 
+NOTE: This setup uses a GoPro Hero 5 Session with a 10 Megapixel camera, you can also use the GoPro Hero 5 which has a 12 Megapixel camera. The only tradeoffs are that the Hero 5 is slightly larger making it less discreet, and the cost is $100 more. The picture quality and zooming ability of the Hero 5 should be even better than the Hero 5 Session.
+
 Files:
 * Gopro.js
   * stopVideo() function prevents the default video mode from initializing on bootup
@@ -24,7 +26,7 @@ Files:
   * Sets up the browser in which image is displayed at a pre-set frequency
 
 Instructions:
-* Put files Gopro.js, Index.html and 100GOPRO folder into the GoPro directory videos/DCIM/
+* Put files Gopro.js and Index.html into the GoPro directory videos/DCIM/
 * Connect to GoPro’s wifi on user’s mobile device
 * Go to browser address 10.5.5.9:8080/videos/DCIM to load the photo stream from GoPro
   * GoPro static address is 10.5.5.9:8080
