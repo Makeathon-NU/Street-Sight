@@ -34,5 +34,7 @@ Instructions:
 
 Hope it helps! :)
 
-Also check out our Street-Nav solution which Announces intersections while walking. Designed to help visually impaired users navigate city streets:
+
+
+Also check out our Street-Nav solution which announces intersections while walking. Designed to help visually impaired users navigate city streets:
 https://github.com/Makeathon-NU/Street-Nav
